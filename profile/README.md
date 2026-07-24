@@ -1,6 +1,6 @@
 <div align="center">
 
-# Compass Decisions
+# Compass Decisions 
 
 **Voice-first AI planning — turning spoken chaos into scheduled clarity.**
 
@@ -15,9 +15,9 @@
 
 ## About
 
-Compass Decisions designs and builds AI-powered planning tools that remove the friction between *deciding what to do* and *actually doing it*. Our flagship product is a **mobile-first, voice-driven web application** that listens to a task, breaks it into small, concrete, time-estimated steps, and schedules it — with minimal effort from the user.
+Compass Decisions Team designs and builds AI-powered planning tools that remove the friction between *deciding what to do* and *actually doing it*. Our flagship product is a **mobile-first, voice-driven web application** that listens to a task, breaks it into small, concrete, time-estimated steps, and schedules it — with minimal effort from the user.
 
-This organization hosts the development of that product, built in partnership with our client, **Roberto**.
+This team hosts the development of that product, built in partnership with our client, **Roberto**.
 
 ## What We're Building
 
@@ -85,5 +85,5 @@ Maintained by the Compass Decisions team. For project inquiries, open a discussi
 ---
 
 <div align="center">
-<sub>© 2026 Compass Decisions. All rights reserved.</sub>
+<sub>© 2026 Compass Decisions Team. All rights reserved.</sub>
 </div>
