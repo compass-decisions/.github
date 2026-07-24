@@ -80,7 +80,7 @@ Please do not open a public issue for security concerns. See [`SECURITY.md`](./S
 
 ## Contact
 
-Maintained by the Compass Decisions team. For project inquiries, open a discussion in this organization or reach out to the maintainers directly.
+Maintained by the Compass Decisions Team. For project inquiries, open a discussion in this organization or reach out to the maintainers directly.
 
 ---
 
